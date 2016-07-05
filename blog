@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Redirezione a Zeronet | Morrolinux</title>
+<link href='https://fonts.googleapis.com/css?family=Oswald:400,700,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js?ver=1.4.2'></script>
+</head>
+
+<body style="background-image: -webkit-radial-gradient(center, circle farthest-corner, #FFFFFF 0%, #B5B5B5 100%);">
+
+<script>
+$(document).ready(function(){
+$('body').css('display', 'none');
+$('body').fadeIn(500);
+$('body').delay(4000).fadeOut(500);
+});
+</script>
+
+<h1 style="color: #333333;
+font-weight: 700;
+ margin: 0;
+ padding: 0;
+ font-size: 100px;
+ font-family: 'Oswald', Helvetica, Arial, sans-serif;
+ text-align: center;">MORROLINUX.IT/BLOG</h1>
+
+<h1 style="color: #4B4B4B;
+ font-weight: 400;
+ margin: 0;
+ padding: 0;
+ font-size: 60px;
+ font-family: 'Oswald', Helvetica, Arial, sans-serif;
+ text-align: center;">Benvenuto</h1>
+
+<h1 style="color: #767676;
+font-weight: 300;
+margin: 0;
+padding: 0;
+font-size: 30px;
+font-family: 'Oswald', Helvetica, Arial, sans-serif;
+text-align: center;">SARAI REINDIRIZZATO ENTRO 5 SECONDI...</h1>
+
+<meta http-equiv="Refresh" content = "5; URL=http://morrolinux.it:43110">
+
+</body>
+</html>
