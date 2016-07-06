@@ -23,12 +23,13 @@
 				<div style="padding:5px; font-size:12px;">
 
           <?php
-
+/*
               $link = array("voglio_diventare_vedova.php", "dedicato_a_voi.php");
               $random = rand(0,1);
               echo "<a href=\"" . $link[$random] . "\" class=\"linka\">Moreno \"Morrolinux\" Razzoli e MrRiky54</a><br />";
-
+*/
            ?>
+					 <a href="creators.php" class="linka" >Moreno "Morrolinux" Razzoli e MrRiky54</a><br />
 
 				</div>
 				<div style="padding:5px;">
