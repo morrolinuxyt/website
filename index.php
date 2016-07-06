@@ -7,16 +7,13 @@
 
 	</head>
 	<body>
-	    <script>
-           if(
-           navigator.userAgent.match(/Android/i) ||
-           navigator.userAgent.match(/webOS/i) ||
-           navigator.userAgent.match(/iPhone/i) ||
-           navigator.userAgent.match(/iPod/i) ||
-           navigator.userAgent.match(/BlackBerry/i)
-           ){
-           location.href="mobile/";
-           }</script>
+
+				 <div class="bottomMob">
+	 				<a href="policy.pdf" class="linka" id="policy">Privacy Policy</a><br />
+	 			</div>
+				<div id="icona">
+				 <a href="index.php"><img alt="icona" src="img/icona.png" height="150" width="150" style="padding:15px;"/></a>
+			 </div>
 
         <?php include("nav.php"); ?>
 
