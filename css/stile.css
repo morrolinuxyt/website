@@ -86,3 +86,56 @@ a:hover {
     bottom: 0px;
     z-index: 999999;
 }
+.bottomMob {
+    display: none;
+}
+#icona {
+    display: none;
+}
+@media screen and (min-device-width: 190px) and (max-device-width: 930px) {
+    .nav {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    .nav img {
+        display: none;
+    }
+    .testohome {
+        display: none;
+    }
+    .linka {
+        font-size: 30px;
+    }
+    #bottom-banner {
+        display: none;
+    }
+    .linkNav {
+        padding: 5px;
+    }
+    .policy {
+        padding-left: 5px;
+    }
+    .testolpi {
+        margin-left: 10px;
+        width: 90%;
+    }
+    .testo {
+        margin-left: 10px;
+    }
+    .bottomMob {
+        display: block;
+        text-align: right;
+        width: 100%;
+        padding-right: 20px;
+    }
+    #policy {
+        font-size: 10px;
+    }
+    body {
+        background: #353535;
+    }
+    #icona {
+        display: block;
+    }
+}

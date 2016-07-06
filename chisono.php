@@ -6,7 +6,10 @@
 		<?php include("head.html"); ?>
 
 	</head>
-	<body>
+	<body style="background: #D8D8D8;">
+		<div class="bottomMob" style="background: #353535;">
+			<a href="policy.pdf" class="linka" id="policy">Privacy Policy</a><br />
+		</div>
 
         <?php include("nav.php"); ?>
 

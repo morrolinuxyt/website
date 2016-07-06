@@ -6,7 +6,11 @@
 		<?php include("head.html"); ?>
 
 	</head>
-	<body>
+	<body style="background: #D8D8D8;">
+
+		<div class="bottomMob" style="background: #353535;">
+			<a href="policy.pdf" class="linka" id="policy">Privacy Policy</a><br />
+		</div>
 
         <?php include("nav.php"); ?>
 
@@ -49,7 +53,7 @@
 				La pubblicazione dei video avviene ogni weekend per obiettivo<br />
 				ES: l’obiettivo 101.1 viene rilasciato sabato ed è comprensivo di 4 video: ognuno dei quali verrà rilasciato nei giorni del fine settimana <br /><br />
 
-				Playlist di youtube: <a href="https://www.youtube.com/playlist?list=PL4L8OWDC99_d46jXlR02dCWzTwNISywwU" target="blank_">https://www.youtube.com/playlist?list=PL4L8OWDC99_d46jXlR02dCWzTwNISywwU</a><br /><br />
+				<a href="https://www.youtube.com/playlist?list=PL4L8OWDC99_d46jXlR02dCWzTwNISywwU" target="blank_">Playlist di youtube</a><br /><br />
 				LPIC-1 Argomenti dell’esame 101:<br />
 				<a href="https://www.lpi.org/study-resources/lpic-1-101-exam-objectives/#101" target="blank_">101 – System Architecture</a><br />
 				<a href="https://www.lpi.org/study-resources/lpic-1-101-exam-objectives/#102" target="blank_">102 – Linux Installation and Package Management</a><br />
