@@ -17,11 +17,7 @@
 					<a href="policy.pdf" class="linka">Privacy Policy</a><br />
 				</div>
 				<div class="makers" style="font-size: 12px;">
-	          <?php
-	              $link = array("voglio_diventare_vedova.php", "dedicato_a_voi.php");
-	              $random = rand(0,1);
-	              echo "<a href=\"" . $link[$random] . "\" class=\"linka\">Moreno \"Morrolinux\" Razzoli e MrRiky54</a><br />";
-	           ?>
+	           <a href="creators.php" class="linka" >Moreno "Morrolinux" Razzoli e MrRiky54</a><br />
 				</div>
 				<div class="bottomImg" style="margin-left: 5px;">
 					<img class="love" alt="Built With Love" style="border-width:0" src="http://forthebadge.com/images/badges/built-with-love.svg" />
