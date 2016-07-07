@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+	<head>
+		<title>LPI :: Morrolinux</title>
+		<link href="css/stile.css" rel="stylesheet" type="text/css">
+
+		<?php include("head.html"); ?>
+
+	</head>
+	<body style="background: #D8D8D8;">
+
+		<div class="bottomMob" style="background: #353535;">
+			<a href="policy.pdf" class="linka" id="policy">Privacy Policy</a><br />
+		</div>
+
+        <?php include("nav.php"); ?>
+
+		<div class="testolpi">
+
+			<h1>LPIC-1 Linux Server Professional</h1><br />
+			<p>
+
+
+
+
+				Benvenuto in questa risorsa per l’autoapprendimento degli argomenti d’esame per la certificazione LPI di primo livello.<br />
+				Questi video possono essere utilizzati per prepararsi all’esame, come anche per semplice arricchimento personale su quello che è il mondo Linux, partendo dalle basi.<br />
+				Il programma di certificazione per LPIC-1 prevede due esami:
+				<br /><br />
+				Exam 101<br />
+				Exam 102
+				<br /><br />
+				ognuno dei quali prevede 60 domande.<br />
+				Per ogni argomento d’esame affrontato di seguito, troverete indicato il valore “weight” (peso) che corrisponde al numero di domande previste per il tale argomento.<br />
+				Di seguito troverai uno o più video a coprire ogni singolo punto del programma d’esame, dandoti (auspicabilmente) la preparazione necessaria per passarlo.<br />
+				<br /><br />
+				per maggiori informazioni su Linux Professional Institute e la certificazione: <a href="http://www.lpi.org" target="blank_">www.lpi.org</a>
+				<br /><br />
+				Per ulteriori chiarimenti o domande non esitate a… consultare le FAQ: <a href="https://www.lpi.org/about-lpi/frequently-asked-questions/" target="blank_">https://www.lpi.org/about-lpi/frequently-asked-questions/</a><br /><br />
+
+				PS: Se volete seguire questo corso in British English da un canale eccezionale, date un occhiata a “The Urban Penguin” - attenzione però che la scaletta è datata 2013 e non coincide più al 100% con gli attuali argomenti d’esame.<br />
+				<a href="http://www.theurbanpenguin.com" target="blank_">http://www.theurbanpenguin.com</a><br /><br />
+
+				Se la tua prossima domanda è: perchè ho deciso di indicizzare i video su un google docs?<br /><br />
+
+				Al momento non ho un portale web<br />
+				Non presenta problemi di sicurezza<br />
+				Non richiede particolare manutenzione<br /><br />
+
+				Buona lettura<br /><br />
+
+				ZONA FAQ:<br />
+				Q: Perchè i link sono privati gnè gnè gnè<br />
+				La pubblicazione dei video avviene ogni weekend per obiettivo<br />
+				ES: l’obiettivo 101.1 viene rilasciato sabato ed è comprensivo di 4 video: ognuno dei quali verrà rilasciato nei giorni del fine settimana <br /><br />
+
+				<a href="https://www.youtube.com/playlist?list=PL4L8OWDC99_d46jXlR02dCWzTwNISywwU" target="blank_">Playlist di youtube</a><br /><br />
+				LPIC-1 Argomenti dell’esame 101:<br />
+				<a href="https://www.lpi.org/study-resources/lpic-1-101-exam-objectives/#101" target="blank_">101 – System Architecture</a><br />
+				<a href="https://www.lpi.org/study-resources/lpic-1-101-exam-objectives/#102" target="blank_">102 – Linux Installation and Package Management</a><br />
+				<a href="https://www.lpi.org/study-resources/lpic-1-101-exam-objectives/#103" target="blank_">103 – GNU and Unix Commands</a><br />
+				<a href="https://www.lpi.org/study-resources/lpic-1-101-exam-objectives/#104" target="blank_">104 – Devices, Linux Filesystems, Filesystem Hierarchy Standard</a>
+				<br /><br />Indice Esame 101<br /><br />
+
+				OBIETTIVO&nbsp;DOMANDE&emsp;&nbsp;DESCRIZIONE<br />
+				101.1&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Determine and configure hardware settings<br />
+				101.2&emsp;&emsp;&emsp;3&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Booting the System<br />
+				101.3&emsp;&emsp;&emsp;3&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Change runlevels and shutdown or reboot system<br />
+				102.1&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Design Hard Disk layout<br />
+				102.2&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Install a boot manager<br />
+				102.3&emsp;&emsp;&emsp;1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Manage shared libraries<br />
+				102.4&emsp;&emsp;&emsp;3&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Use Debian package management<br />
+				102.5&emsp;&emsp;&emsp;3&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Use RPM and YUM package management<br />
+				103.1&emsp;&emsp;&emsp;4&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Work on the command line<br />
+				103.2&emsp;&emsp;&emsp;3&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Process text streams using filters<br />
+				103.3&emsp;&emsp;&emsp;4&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Perform basic file management<br />
+				103.4&emsp;&emsp;&emsp;4&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Working with redirection, streams and pipes<br />
+				103.5&emsp;&emsp;&emsp;4&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Create, monitor and kill processes<br />
+				103.6&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Modify Process Execution Priorities<br />
+				103.7&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Search text files using regular expressions<br />
+				103.8&emsp;&emsp;&emsp;3&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Perform basic file editing operations using vi<br />
+				104.1&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Create partitions and filesystem<br />
+				104.2&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Maintain the integrity of filesystems<br />
+				104.3&emsp;&emsp;&emsp;3&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Control mounting and unmounting of filesystems<br />
+				104.4&emsp;&emsp;&emsp;1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Manage disk quotas<br />
+				104.5&emsp;&emsp;&emsp;3&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Manage file permissions and ownership<br />
+				104.6&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Create and change hard and symbolic links<br />
+				104.7&emsp;&emsp;&emsp;2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Find system files and place files in the correct location<br /><br /><br /><br />
+
+		<a href="http://morrolinux.tk" target="blank_">PDF su Certificazione LPI</a>
+		</p>
+		<br />
+		</div>
+	</body>
+</html>
