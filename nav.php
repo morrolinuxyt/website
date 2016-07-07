@@ -19,7 +19,7 @@
 				<div class="makers" style="font-size: 12px;">
 	           <a href="creators.php" class="linka" >Moreno "Morrolinux" Razzoli e MrRiky54</a><br />
 				</div>
-				<div class="bottomImg" style="margin-left: 5px;">
+				<div class="bottomImg">
 					<a href="love.php"><img class="love" alt="Built With Love" style="border-width:0" src="http://forthebadge.com/images/badges/built-with-love.svg" /></a>
 					<a class="license" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" height="35px" width="100px" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 				</div>

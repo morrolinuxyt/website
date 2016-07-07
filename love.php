@@ -45,7 +45,7 @@
 				-Oltre che vedere il codice nella sezione "code" potete anche, nella sezione "commit", vedere i vari cambiamenti che sono stati fatti e da chi;<br />
 				-Nella sezione contributors potete vedere chi sta contribuendo al progetto, dove potrete esserci pure voi;<br />
 				-Nella sezione "Issues" potrete vedere i vari problemi segnalati e potrete segnalarne anche voi, cosa che vi invitiamo a fare;<br />
-				-Nella sezione "Pull Request" potrete voi stessi migliorare il sito: se trovate qualcosa che si potrebbe migliorare, fatelo! Poi, create una richiesta, ve ne saremo molto grati.a<br /><br />
+				-Nella sezione "Pull Request" potrete voi stessi migliorare il sito: se trovate qualcosa che si potrebbe migliorare, fatelo! Poi, create una richiesta, ve ne saremo molto grati.<br /><br />
 				Tutto il materiale presente in questo sito è invece disponibile con licenza <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.<br /><br />
 			</p>
 			<h2>La scelta di Zeronet</h2>
