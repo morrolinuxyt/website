@@ -138,4 +138,7 @@ a:hover {
     #icona {
         display: block;
     }
+    #thome {
+        display: none;
+    }
 }

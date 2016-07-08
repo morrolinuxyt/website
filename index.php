@@ -17,7 +17,7 @@
 
         <?php include("nav.php"); ?>
 
-		<div class="testo" style="max-width: 800px;">
+		<div class="testo" id="thome" style="max-width: 800px;">
 			<h1 style="color: #FFA200;">Sito <strong style="color: 	#ff6600;">OpenSource</strong> su <a href="https://github.com/morrolinuxyt/website">GitHub</a>!</h1><br /><br /><br />
 			<h1>Love, Lettera Dedicata ai Lettori</h1>
 			<p>
