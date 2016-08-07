@@ -1,23 +1,23 @@
-<div class="nav" id="box">
-			<a href="index.php"><img alt="icona" src="img/icona.png" height="150" width="150" style="padding:15px;"/></a>
-			<div class="linkNav">
-				<a href="http://morrolinux.it:43110" class="linka">BLOG</a><br />
+<div class="menu">
+			<a href="index.php"><img alt="logo" src="img/logo.png" height="150" width="150" style="padding:15px;"/></a>
+			<div class="menu_link">
+				<a href="http://morrolinux.it:43110" class="link">BLOG</a><br />
 			</div>
-			<div class="linkNav">
-				<a href="lpi.php" class="linka">LPI</a><br />
+			<div class="menu_link">
+				<a href="lpi.php" class="link">LPI</a><br />
 			</div>
-      <div class="linkNav">
-				<a href="chisono.php" class="linka">CHI SONO</a><br />
+      <div class="menu_link">
+				<a href="chisono.php" class="link">CHI SONO</a><br />
 			</div>
-			<div class="linkNav">
-				<a href="contatti.php" class="linka">CONTATTI</a><br />
+			<div class="menu_link">
+				<a href="contatti.php" class="link">CONTATTI</a><br />
 			</div>
-			<div id="bottom-banner">
+			<div id="bottom">
 				<div class="policy" style="font-size: 12px;">
-					<a href="policy.pdf" class="linka">Privacy Policy</a><br />
+					<a href="policy.pdf" class="link">Privacy Policy</a><br />
 				</div>
 				<div class="makers" style="font-size: 12px;">
-	           <a href="creators.php" class="linka" >Moreno "Morrolinux" Razzoli e MrRiky54</a><br />
+	           <a href="creators.php" class="link" >Moreno "Morrolinux" Razzoli e MrRiky54</a><br />
 				</div>
 				<div class="bottomImg">
 					<a href="love.php"><img class="love" alt="Built With Love" style="border-width:0" src="http://forthebadge.com/images/badges/built-with-love.svg" /></a>
