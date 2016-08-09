@@ -1,15 +1,15 @@
 <div class="menu">
-			<a href="index.php"><img alt="logo" src="img/logo.png" height="150" width="150" style="padding:15px;"/></a>
-			<div class="menu_link">
+			<a href="index.php"><img id="logo" alt="logo" src="img/logo.png" height="150" width="150" style="padding:15px;"/></a>
+			<div class="menu_link sweep-to-right">
 				<a href="http://morrolinux.it:43110" class="link">BLOG</a><br />
 			</div>
-			<div class="menu_link">
+			<div class="menu_link sweep-to-right">
 				<a href="lpi.php" class="link">LPI</a><br />
 			</div>
-      <div class="menu_link">
+      <div class="menu_link sweep-to-right">
 				<a href="chisono.php" class="link">CHI SONO</a><br />
 			</div>
-			<div class="menu_link">
+			<div class="menu_link sweep-to-right">
 				<a href="contatti.php" class="link">CONTATTI</a><br />
 			</div>
 			<div id="bottom">
