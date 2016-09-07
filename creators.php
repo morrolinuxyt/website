@@ -14,11 +14,11 @@
 		  					$randindex = rand (0,count($videos)-1);
 						?>
 
-						<h1><?php echo $videos[$randindex][1]; ?> </h1><br /><br />
+						<h1 class="videos_title"><?php echo $videos[$randindex][1]; ?> </h1><br /><br />
 						<p>
 
 								<?php
-		                echo "<iframe class=\"video\" width=\"820\" height=\"630\" align=\"left\" src=\"https://www.youtube.com/embed/".$videos[$randindex][0]."\" frameborder=\"0\" allowfullscreen=\"\"></iframe>";
+		                echo "<iframe class=\"video\" align=\"left\" src=\"https://www.youtube.com/embed/".$videos[$randindex][0]."\" frameborder=\"0\" allowfullscreen=\"\"></iframe>";
 								?>
 
 								<?php echo "<br><span class=\"videos_text\">" .$videos[$randindex][2] . "</span>"; ?>

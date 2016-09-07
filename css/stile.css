@@ -77,6 +77,8 @@ a:hover {
     margin-right:30px;
     padding-bottom: 50px;
     position: relative;
+    width: 820px;
+    height: 630px;
 }
 .mobile_bottom {
     display: none;
@@ -150,7 +152,7 @@ a:hover {
 
 @media screen and (min-device-width: 930px) and (max-device-width: 1500px) {
     .video {
-        padding-right: 100%;
+        width: 100%;
     }
 }
 @media screen and (min-device-width: 190px) and (max-device-width: 930px) {
@@ -192,6 +194,13 @@ a:hover {
         text-align: right;
         width: 100%;
         padding-right: 20px;
+    }
+    .video {
+        width: 100%;
+        height: auto;
+    }
+    .videos_text, .videos_title {
+      color: white;
     }
 
     /* IDs */
