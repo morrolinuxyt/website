@@ -150,12 +150,17 @@ a:hover {
 
 /* Responsive Sets */
 
-@media screen and (min-device-width: 930px) and (max-device-width: 1500px) {
+@media screen and (max-height: 650px) {
+    .menu iframe {
+        display: none;
+    }
+}
+@media screen and (min-width: 930px) and (max-width: 1500px) {
     .video {
         width: 100%;
     }
 }
-@media screen and (min-device-width: 190px) and (max-device-width: 930px) {
+@media screen and (min-width: 190px) and (max-width: 930px) {
 
     /* General Sets */
 
@@ -197,10 +202,8 @@ a:hover {
     }
     .video {
         width: 100%;
-        height: auto;
-    }
-    .videos_text, .videos_title {
-      color: white;
+        height: 300px;
+        margin-right: 0px;
     }
 
     /* IDs */

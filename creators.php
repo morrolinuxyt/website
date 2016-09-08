@@ -4,7 +4,11 @@
 		<link href="css/stile.css" rel="stylesheet" type="text/css">
 
 	</head>
-	<body>
+	<body style="background: #D8D8D8;">
+
+		<div class="mobile_bottom">
+				<a href="policy.pdf" class="link" id="policy">Privacy Policy</a><br />
+		</div>
 
         <?php include("nav.php"); ?>
 
