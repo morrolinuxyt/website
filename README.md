@@ -1,4 +1,3 @@
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?maxAge=2592000?style=flat-square)](https://github.com/morrolinuxyt/website/) [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg?maxAge=2592000?style=flat-square)](https://github.com/morrolinuxyt/website/) [![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?maxAge=2592000?style=flat-square)](https://github.com/morrolinuxyt/website/) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000?style=flat-square)](https://github.com/morrolinuxyt/website/) 
 # Morrolinux Website
 Credo proprio vi siate tutti accorti che in questi mesi abbiamo cercato di far rinascere il sito morrolinux.it ad una nuova vita. Ebbene, chi ha seguito anche sommariamente il progetto, avrà distinto due fasi:
 - La prima fase era quella su wordpress, che è risultato non essere la miglior soluzione per quello che noi cercavamo;
