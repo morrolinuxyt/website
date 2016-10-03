@@ -1,32 +1,20 @@
-<?php include("head.html"); ?>
+<?php include "assets/head.html"; ?>
 
-		<title>Easter Egg :: Morrolinux</title>
-		<link href="css/stile.css" rel="stylesheet" type="text/css">
+    <title>Creators :: Morrolinux</title>
 
-	</head>
-	<body style="background: #D8D8D8;">
+  </head>
+  <body>
 
-		<div class="mobile_bottom">
-				<a href="policy.pdf" class="link" id="policy">Privacy Policy</a><br />
-		</div>
+    <?php include "assets/nav.html"; ?>
 
-        <?php include("nav.php"); ?>
+    <div class="container">
+      <?php
+        include 'assets/videos.php';
+        $randindex = rand (0,count($videos)-1);
+        echo "<h1>" . $videos[$randindex][1] . "</h1>";
+        echo "<iframe class=\"video\"  src=\"https://www.youtube.com/embed/".$videos[$randindex][0]."\" frameborder=\"0\" allowfullscreen=\"\"></iframe>";
+        echo "<p class=\"videos_text\">" .$videos[$randindex][2] . "</p>";
+      ?>
+    </div>
 
-				<div class="text">
-						<?php
-		  					include 'videos.php';
-		  					$randindex = rand (0,count($videos)-1);
-						?>
-
-						<h1 class="videos_title"><?php echo $videos[$randindex][1]; ?> </h1><br /><br />
-						<p>
-
-								<?php
-		                echo "<iframe class=\"video\" align=\"left\" src=\"https://www.youtube.com/embed/".$videos[$randindex][0]."\" frameborder=\"0\" allowfullscreen=\"\"></iframe>";
-								?>
-
-								<?php echo "<br><span class=\"videos_text\">" .$videos[$randindex][2] . "</span>"; ?>
-						</p>
-				</div>
-
-<?php include("footer.html"); ?>
+<?php include "assets/footer.html"; ?>

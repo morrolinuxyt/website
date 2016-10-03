@@ -1,17 +1,14 @@
-<?php include("head.html"); ?>
+<?php include "assets/head.html"; ?>
 
-		<title>LPI :: Morrolinux</title>
-		<link href="css/stile.css" rel="stylesheet" type="text/css">
+    <title>LPI :: Morrolinux</title>
 
-	</head>
-	<body style="background: #D8D8D8;">
+  </head>
+  <body>
 
-			<div class="mobile_bottom">
-				<a href="policy.pdf" class="link" id="policy">Privacy Policy</a><br />
-			</div>
+    <?php include "assets/nav.html"; ?>
 
-      <?php include("nav.php"); ?>
+    <div class="container">
+      <?php include "assets/lpi_text.html"; ?>
+    </div>
 
-			<?php include("lpi_text.html"); ?>
-
-<?php include("footer.html"); ?>
+<?php include "assets/footer.html"; ?>

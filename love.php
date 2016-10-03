@@ -1,19 +1,14 @@
-<?php include("head.html"); ?>
+<?php include "assets/head.html"; ?>
 
-		<title>Love :: Morrolinux</title>
-		<link href="css/stile.css" rel="stylesheet" type="text/css">
+    <title>Love :: Morrolinux</title>
 
-	</head>
-	<body style="background: #D8D8D8;">
+  </head>
+  <body>
 
-			<div class="mobile_bottom">
-					<a href="policy.pdf" class="link" id="policy">Privacy Policy</a><br />
-			</div>
+    <?php include "assets/nav.html"; ?>
 
-      <?php include("nav.php"); ?>
+    <div class="container">
+      <?php include "assets/letter.html"; ?>
+    </div>
 
-			<div class="text">
-					<?php include("letter.html"); ?>
-			</div>
-
-<?php include("footer.html"); ?>
+<?php include "assets/footer.html"; ?>
