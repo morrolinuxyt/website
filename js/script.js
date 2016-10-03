@@ -8,6 +8,7 @@ $(document).ready(function(){
     var color = $(this).css("background-color");
     if (color === "rgb(205, 220, 57)") {
       $(this).css("background-color", "#E0E0E0");
+      $(this).css("opacity", "1");
     } else {
       $(this).css("background-color", "#CDDC39");
     }
