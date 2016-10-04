@@ -29,7 +29,7 @@
       Twitter: <a href="https://twitter.com/morrolinux/" target="blank_">MorrolinuxTwitter</a><br />
       Google+: <a href="https://plus.google.com/u/0/+morrolinux/" target="blank_">+Morrolinux</a><br />
       Telegram: <a href="https://telegram.me/morrolinux_feed" target="blank_">MorrolinuxFeed</a><br />
-      Gruppo Telegram: <a href="https://telegram.me/joinchat/CIYEjgkX2BFOOKqWqkWFwA" target="_blank">/dev/null/morrolinux</a><br />
+      Gruppo Telegram: <a href="https://telegram.me/joinchat/CIYEjkC40GCRjAXDSXJJdQ" target="_blank">/dev/null/morrolinux</a><br />
       </p>
     </div>
 
