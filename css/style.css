@@ -103,7 +103,7 @@ body {
   opacity: 1;
 }
 .project:hover {
-  opacity: 0.8;
+  background-color: #E1EB7F;
 }
 .to_open {
   display: none;
