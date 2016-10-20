@@ -30,6 +30,9 @@
         <div class="to_open">
           <img src="img/wallpapers/1.jpg" alt="Wallpaper 1" />
           <img src="img/wallpapers/2.jpg" alt="Wallpaper 2" />
+          <img src="img/wallpapers/3.png" alt="Wallpaper 3" /><br /><p>By <a href="http://valkyagan.deviantart.com/" target="_blank">Valkyagan</a></p>
+          <img src="img/wallpapers/4.png" alt="Wallpaper 4" /><br /><p>By <a href="http://valkyagan.deviantart.com/" target="_blank">Valkyagan</a></p>
+          <img src="img/wallpapers/5.png" alt="Wallpaper 5" /><br /><p>By <a href="http://valkyagan.deviantart.com/" target="_blank">Valkyagan</a></p>
         </div>
       </div></a>
 
@@ -62,7 +65,7 @@
           <img src="img/comments/23.png" alt="Comment 23"/>
         </div>
       </div></a>
-      
+
     </div>
 
 <?php include "assets/footer.html"; ?>
