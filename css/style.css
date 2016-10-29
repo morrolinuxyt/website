@@ -119,6 +119,10 @@ body {
   display: inline;
   text-align: right;
 }
+.resize {
+  width: 100%;
+  height: 422px;
+}
 
 
 
@@ -248,6 +252,9 @@ body {
   }
   .video {
     height: 300px;
+  }
+  .resize {
+    height: 270px;
   }
   .submenu {
     margin-top: 270px;
