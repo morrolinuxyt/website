@@ -9,6 +9,7 @@
 
     <div class="container">
       <h1>About Me</h1>
+      <img src="http://i.imgur.com/lWd1pWF.jpg" width="100%" style="border-radius: 40px; margin-bottom: 10px;" />
       <h2>Chi Sono</h2>
       <p>
       Effettivamente non avevo mai pensato a quanto potesse essere imbarazzante scriversi la propria pagina di “Chi sono”.<br /><br />
