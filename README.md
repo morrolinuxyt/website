@@ -8,7 +8,7 @@ Eravamo abbastanza spiazzati, non perchè non eravamo pronti a cambiare hosting,
 Abbiamo così iniziato, e presto finito, a fare il sito. Il risultato era di tutto rispetto. Tuttosommato la soddisfazione di aver creato un sito da zero, e farlo funzionare, era fantastico. C'erano, però, delle questioni che, nel fare il sito, abbiamo messo in conto e su cui ci siamo focalizzati: volevamo, innanzitutto, che il sito risulti difficile da hackerare, soprattutto la parte blog, e che quest'ultima fosse preferibilmente "anti-censura". Volevamo, infine, che fosse performante, nonostante ora abbiamo un hosting che reggerebbe benissimo wordpress, non volevamo rallentamenti nemmeno se ci fossero state 1.000 utenti simultanei.
 Ebbene, abbiamo raggiunto i nostri obbiettivi grazie a ZeroNet e al famosissimo HTML. Pensate sia finito tutto qui? No. Il sito è in costante aggiornamento e in continuo sviluppo.
 
-#Open Source
+## Open Source
 Esatto, il nostro sito è open-source, distribuito con licenza GPLv3. Tutti lo potete consultare qua sopra, vedendo ogni singolo codice presente su questo sito, vedere come funziona, proporre cambiamenti e segnalare bug. Vediamo cosa si può fare:
 -Oltre che vedere il codice nella sezione "code" potete anche, nella sezione "commit", vedere i vari cambiamenti che sono stati fatti e da chi;
 -Nella sezione contributors potete vedere chi sta contribuendo al progetto, dove potrete esserci pure voi;
