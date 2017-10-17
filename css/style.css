@@ -187,6 +187,7 @@ body {
           display: inline-block;
           margin-left: 5px;
           position: absolute;
+          z-index:10;
         }
         .nav_button {
           width: 40px;
