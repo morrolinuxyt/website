@@ -20,6 +20,15 @@
          -Lasciando like e/o commenti ai video<br />
          -Condividendo il canale e i video<br />
       </p>
+	  <h2>Su Amazon</h2>
+	  <p>
+		Accedendo al sito tramite il mio link: <a href="http://amzn.to/2AC0a6Q" target="_blank">http://amzn.to/2AC0a6Q</a><br />
+		- Amazon mi devolverà il 5% della tua spesa<br />
+		- Zero costi aggiuntivi per te<br />
+		- Totale sicurezza negli acquisti e tutela della tua privacy<br /><br />
+		Per comodità, potresti impostarlo come segnalibro ed utilizzarlo ogni volta che vorrai andare su Amazon <br /><br />
+		Per sapere di più sul programma di affiliazione Amazon: <a href="https://programma-affiliazione.amazon.it" target="_blank">https://programma-affiliazione.amazon.it</a><br />
+	  </p>
       <h2>Sui Social</h2>
       <p>-Seguendomi su <a href="https://www.facebook.com/MorrolinuxOfficial/" target="blank_">Facebook</a><br />
          -Lasciando like ai post<br >
