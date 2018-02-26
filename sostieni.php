@@ -23,7 +23,7 @@
 	  <h2>Su Amazon</h2>
 	  <p>
 		Accedendo al sito tramite il mio link: <a href="http://amzn.to/2AC0a6Q" target="_blank">http://amzn.to/2AC0a6Q</a><br />
-		- Amazon mi devolverà il 5% della tua spesa<br />
+		- Amazon mi devolverà il 5% del suo ricavato sulla tua spesa<br />
 		- Zero costi aggiuntivi per te<br />
 		- Totale sicurezza negli acquisti e tutela della tua privacy<br /><br />
 		Per comodità, potresti impostarlo come segnalibro ed utilizzarlo ogni volta che vorrai andare su Amazon <br /><br />
