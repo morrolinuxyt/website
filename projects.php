@@ -29,11 +29,6 @@
         <p>Creiamo un sistema di sorveglianza con un Raspberry</p>
       </div></a>
 
-	  <a href="https://blog.morrolinux.it/raspberry-pi-fm-radio-transmitter-stereo-a2dp-bluetooth-rds/" target="_blank"><div class="project">
-        <h1>RPi FM Radio</h1>
-        <p>Creiamo una radio FM col Raspberry Pi</p>
-      </div></a>
-
       <a href="#"><div class="project open">
         <h1>Wallpapers</h1>
         <p class="to_close">Sfondi per PC e Smartphone per i migliori seguaci!</p>
