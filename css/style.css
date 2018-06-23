@@ -132,7 +132,19 @@ body {
   box-shadow: 0px 0px 20px #757575;
   text-align: center;
 }
-
+.button {
+  font-weight: 300;
+  font-size: 30px;
+  padding: 5px 20px 5px 20px;
+  border: solid;
+  border-radius: 10px;
+  background-color: orangered;
+  color: white;
+}
+.button:hover {
+  background-color: #b23000;
+  color: white;
+}
 
 
 
