@@ -291,4 +291,7 @@ body {
   .github {
     display: none;
   }
+  .lpi_resize {
+    font-size: 6vw;
+  }
 }
