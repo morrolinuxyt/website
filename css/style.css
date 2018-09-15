@@ -145,7 +145,20 @@ body {
   background-color: #b23000;
   color: white;
 }
-
+.lpi_button {
+  background-color: #FEC224;
+  color: #424242;
+}
+.lpi_button:hover {
+  background-color: orangered;
+  color: #424242;
+}
+.long_text ul {
+  margin-left: 40px;
+}
+.same_line_buttons {
+  margin: 25px;
+}
 
 
 /* NAV */
@@ -291,7 +304,9 @@ body {
   .github {
     display: none;
   }
-  .lpi_resize {
+  .lpi_button {
     font-size: 6vw;
+    display: block;
+    margin: 25px;
   }
 }

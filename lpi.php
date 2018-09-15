@@ -8,7 +8,7 @@
     <?php include "assets/nav.html"; ?>
 
     <div class="container">
-      <iframe class="resize" src="https://www.youtube.com/embed/9rmkoz9Xos8" frameborder="0" allowfullscreen></iframe><br /><br />
+      <iframe class="resize" src="https://www.youtube.com/embed/IpfcahnPknM" frameborder="0" allowfullscreen></iframe><br /><br />
       <?php include "assets/lpi_text.html"; ?>
     </div>
 
