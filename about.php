@@ -16,8 +16,8 @@
       Ebbene mi chiamo Moreno Razzoli, sono Perito informatico, appassionato di GNU/Linux e soluzioni OpenSource, di cui parlo spesso sul mio canale youtube
       anche se non mi piace definirmi “uno youtuber“: tutto ciò che faccio è condividere reciprocamente entusiasmo e scoperte con una comunità (sempre in crescita!)
       di appassionati e professionisti del settore.<br /><br />
-      Nella vita sono un System Administrator sempre alla ricerca di nuovi stimoli, ragione per la quale sto perseguendo la certificazione LPI
-      (di cui sto anche tenendo un corso gratuito su youtube) assieme ad un continuo lavoro di ricerca delle nuove tecnologie ed opportunità del settore.
+      Nella vita sono un System Administrator sempre alla ricerca di nuovi stimoli, ragione per la quale ho conseguito la certificazione LPI
+      (su cui ho anche realizzato un corso su Udemy) assieme ad un continuo lavoro di ricerca delle nuove tecnologie ed opportunità del settore.
     </p><br />
       <h2>Contatti</h2>
       <p>
