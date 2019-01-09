@@ -97,13 +97,13 @@ body {
   text-align: center;
 }
 .project {
-  background-color: #CDDC39;
+  background-color: #FEC224;
   border-radius: 3px;
   box-shadow: 0px 0px 20px #757575;
   opacity: 1;
 }
 .project:hover {
-  background-color: #E1EB7F;
+  background-color: #BEBEBE;
 }
 .to_open {
   display: none;
@@ -124,24 +124,17 @@ body {
   height: 422px;
 }
 .button {
-  font-weight: 300;
-  font-size: 30px;
+  font-weight: 600;
+  font-size: 25px;
   padding: 5px 20px 5px 20px;
-  border: solid;
-  border-radius: 10px;
-  background-color: orangered;
-  color: white;
-}
-.button:hover {
-  background-color: #b23000;
-  color: white;
-}
-.lpi_button {
+  border: solid 1px #424242;
+  border-radius: 30px;
   background-color: #FEC224;
   color: #424242;
 }
-.lpi_button:hover {
-  background-color: #D9A41E;
+.button:hover {
+  /*opacity: 0.8;*/
+  background-color: #BEBEBE;
   color: #424242;
 }
 .long_text ul {
@@ -150,7 +143,30 @@ body {
 .same_line_buttons {
   margin: 25px;
 }
-
+.banner {
+  background-color: rgba(254, 194, 36, 0.5);
+  padding: 20px;
+  margin: 20px 5px;
+  border-radius: 10px;
+  text-align: center;
+  color: #424242;
+}
+.banner:hover {
+  background-color: #FEC224;
+}
+.blink {
+  animation: blinker 1s linear infinite;
+}
+.arrow {
+  width: 15px;
+  height: 15px;
+  margin-top: -3px;
+}
+.about_img {
+  width: 100%;
+  border-radius: 40px;
+  margin-bottom: 10px;
+}
 
 /* NAV */
 
@@ -161,10 +177,12 @@ body {
           background-color: #424242;
           width: 100%;
           height: 50px;
+          box-shadow: 0px 0px 10px #757575;
+          z-index: 99;
         }
         .nav_mobile {
           position: fixed;
-          background-color: #424242;
+          background-color: #BEBEBE;
           width: 100%;
           margin-top: 50px;
           display: none;
@@ -189,7 +207,7 @@ body {
           color: white;
         }
         .nav_mobile a {
-          color: white;
+          color: #424242;
           font-style: none;
           font-size: 20px;
           font-weight: 300;
@@ -218,49 +236,9 @@ body {
           position: absolute;
           display: none;
         }
-
-    /* Animations */
-
-        .overline-from-center {
-          display: inline-block;
-          vertical-align: middle;
-          -webkit-transform: translateZ(0);
-          transform: translateZ(0);
-          box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-          -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
-          -moz-osx-font-smoothing: grayscale;
-          position: relative;
-          overflow: hidden;
+        .hvr-overline-from-center:before {
+          background: #FEC224;
         }
-        .overline-from-center:before {
-          content: "";
-          position: absolute;
-          z-index: -1;
-          left: 50%;
-          right: 50%;
-          top: 0;
-          background: #CDDC39;
-          height: 4px;
-          -webkit-transition-property: left, right;
-          transition-property: left, right;
-          -webkit-transition-duration: 0.3s;
-          transition-duration: 0.3s;
-          -webkit-transition-timing-function: ease-out;
-          transition-timing-function: ease-out;
-        }
-        .overline-from-center:hover:before, .overline-from-center:focus:before, .overline-from-center:active:before {
-          left: 0;
-          right: 0;
-        }
-
-
-
-
-
-
-
-
 
 
 /* Responsive */
@@ -286,6 +264,9 @@ body {
     box-shadow: 0px 0px 0px;
     opacity: 1;
   }
+  .container {
+    padding-top: 50px;
+  }
   .container p {
     margin-bottom: 5px;
   }
@@ -299,5 +280,23 @@ body {
     font-size: 6vw;
     display: block;
     margin: 25px;
+  }
+  .about_img {
+    border-radius: 0px;
+  }
+}
+
+/* Animations */
+
+/* This makes arrows blink */
+
+@keyframes blinker {
+  from,
+  49.9% {
+    opacity: 0;
+  }
+  50%,
+  to {
+    opacity: 1;
   }
 }

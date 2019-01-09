@@ -35,7 +35,7 @@
       </p>
       <h2>Donazioni</h2>
       <p>Anche se i video sono visibili gratuitamente, la loro realizzazione ha dei costi, sia economici che in termini di tempo.<br />Se ti va di contribuire ad ammortizzarli e credi anche tu nell'<strong>informazione libera</strong>, puoi fare una donazione tramite il seguente link. <b>Grazie.</b>
-      <br /><br /><a class="button" href="https://paypal.me/morrolinux" target="blank_">Sostieni</a></p><br /><br />
+      <br /><br /><a class="button hvr-grow-shadow" href="https://paypal.me/morrolinux" target="blank_">SOSTIENI</a></p><br /><br />
     </div>
 
 <?php include "assets/footer.html"; ?>
