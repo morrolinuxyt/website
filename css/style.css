@@ -70,13 +70,13 @@ body {
 }
 .footer_text p, .footer_text a{
   color: white;
-  font-size: 15px;
+  font-size: 0.9em;
   margin-left: auto;
   margin-right: auto;
 }
 .signature {
-    font-family: "Jey", sans-serif;
-    font-size: 70px;
+  font-family: "Jey", sans-serif;
+  font-size: 4em;
 }
 .video {
   width: 100%;
@@ -84,11 +84,11 @@ body {
   margin-bottom: 20px;
 }
 .videos_text {
-  font-size: 20px;
+  font-size: 1.2em;
   font-weight: 300;
 }
 .project h1 {
-  font-size: 50px;
+  font-size: 3em;
   color: #424242;
   text-align: center;
 }
@@ -125,7 +125,7 @@ body {
 }
 .button {
   font-weight: 600;
-  font-size: 25px;
+  font-size: 1.5em;
   padding: 5px 20px 5px 20px;
   border: solid 1px #424242;
   border-radius: 30px;
@@ -133,7 +133,6 @@ body {
   color: #424242;
 }
 .button:hover {
-  /*opacity: 0.8;*/
   background-color: #BEBEBE;
   color: #424242;
 }
@@ -150,6 +149,7 @@ body {
   border-radius: 10px;
   text-align: center;
   color: #424242;
+  font-size: 1.1em;
 }
 .banner:hover {
   background-color: #FEC224;
