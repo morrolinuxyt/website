@@ -133,8 +133,8 @@ body {
   color: #424242;
 }
 .button:hover {
-  background-color: #BEBEBE;
-  color: #424242;
+  background-color: #B86823;
+  color: white;
 }
 .long_text ul {
   margin-left: 40px;
