@@ -300,3 +300,43 @@ body {
     opacity: 1;
   }
 }
+
+/* FAQ TEMPLATE */
+
+#faq {
+  padding: 0 0 10rem;
+}
+#faq h2 {
+  text-align: center;
+}
+#faq .accordion .card {
+  border: 2px solid #C4C4C4;
+  border-radius: 10px;
+  margin: 20px;
+}
+#faq .accordion .card .card-header {
+  border: none;
+  padding: 0;
+}
+#faq .accordion .card .card-header button {
+  background: white url("../img/minus.png") no-repeat 98.5% center/30px;
+  color: black;
+  font-size: 1rem;
+  width: 100%;
+  padding: 15px 50px;
+  white-space: normal;
+}
+#faq .accordion .card .card-header button span {
+  display: block;
+}
+#faq .accordion .card .card-header button:focus {
+  box-shadow: none;
+  outline: none;
+}
+#faq .accordion .card .card-header button.collapsed {
+  background: #FFFFFF url("../img/plus.png") no-repeat 98% center/18px 18px;
+  color: black;
+}
+#faq .accordion .card .card-body {
+  margin: 20px;
+}
