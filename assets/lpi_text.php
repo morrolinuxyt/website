@@ -1,3 +1,24 @@
+<?php
+  $essentials = $e101 = $e102 = "";
+
+  $json_data = file_get_contents('udemy_coupons.txt');
+  $data = json_decode($json_data, true);
+
+  $essentials = $data["Essentials"];
+  $e101 = $data["101"];
+  $e102 = $data["102"];
+
+  if(empty($essentials)){
+    $essentials = "https://www.udemy.com/course/impara-linux-da-zero-lpi-linux-essentials/";
+  }
+  if(empty($e101)){
+    $e101 = "https://www.udemy.com/course/impara-linux-dalle-basi-alla-certificazione/";
+  }
+  if(empty($e102)){
+    $e102 = "https://www.udemy.com/course/impara-linux-dalle-basi-alla-certificazione-lpi-exam-102/";
+  }
+?>
+
 <div class="long_text">
 
   <h1>LPIC-1 vs Linux Essentials</h1><br />
@@ -6,9 +27,9 @@
     <b>Linux Essentials</b> è un corso che parte "da zero" e introduce a GNU/Linux e al mondo dell'Open Source.<br />
     Si rivolge ad un pubblico di utenti alle prime armi con Linux, ma anche a chi ha qualche lacuna da appianare.<br />
     Il programma completo del corso è diviso in 5 sezioni, e spazia su tutti gli aspetti generali di una distribuzione Linux.<br />
-    <u>Acquista il corso cliccando sul bottone qui sotto: avrai accesso illimitato al corso a solo 9,99€!</u><br /><br />
+    <u>Acquista il corso cliccando sul bottone qui sotto: avrai accesso illimitato al corso al miglior prezzo disponibile!</u><br /><br />
   </p>
-    <center> <a class="button hvr-grow-shadow" href="https://www.udemy.com/impara-linux-da-zero-lpi-linux-essentials/?couponCode=MORROLINUXIT" target="blank_">LINUX ESSENTIALS</a><br /><br /> </center>
+    <center> <a class="button hvr-grow-shadow" href="<?php echo $essentials; ?>" target="blank_">LINUX ESSENTIALS</a><br /><br /> </center>
   <p>
     <br/><br/>
     <b> LPIC-1 </b> è il corso di certificazione professionale LPI di primo livello. <br />
@@ -22,17 +43,17 @@
     <li>Sistemisti junior che vogliono conseguire la certificazione LPI di primo livello</li>
   </ul>
   <p>
-    Il programma di certificazione per LPIC-1 prevede due esami, <u>usando i link qui sotto avrai a disposizione un'incredibile sconto del 93%</u> sull'acquisto dei corsi<br /><br />
+    Il programma di certificazione per LPIC-1 prevede due esami, <u>acquistando tramite i link qui sotto avrai accesso illimitato al corso al miglior prezzo disponibile!</u> <br /><br />
   </p>
   <center>
-      <a class="button same_line_buttons hvr-grow-shadow" href="https://www.udemy.com/impara-linux-dalle-basi-alla-certificazione/?couponCode=MORROLINUXIT02" target="blank_">EXAM 101 - CORSO</a>
-      <a class="button same_line_buttons hvr-grow-shadow" href="https://www.udemy.com/impara-linux-dalle-basi-alla-certificazione-lpi-exam-102/?couponCode=MORROLINUXIT" target="blank_">EXAM 102 - CORSO</a>
+      <a class="button same_line_buttons hvr-grow-shadow" href="<?php echo $e101; ?>" target="blank_">EXAM 101 - CORSO</a>
+      <a class="button same_line_buttons hvr-grow-shadow" href="<?php echo $e102; ?>" target="blank_">EXAM 102 - CORSO</a>
   </center>
   <p>
     <br /><br />
     Nei miei corsi troverai tutte le risorse necessarie a coprire ogni argomento del programma d’esame, dandoti la giusta preparazione a superarlo.<br /><br />
     Per maggiori informazioni su Linux Professional Institute e sulle certificazioni: <a href="http://www.lpi.org" target="blank_">www.lpi.org</a><br /><br />
-    Per ulteriori chiarimenti o domande non esitate a… consultare le FAQ: <a href="https://www.lpi.org/about-lpi/frequently-asked-questions/" target="blank_">https://www.lpi.org/about-lpi/frequently-asked-questions/</a><br /><br /><br />
+    Per ulteriori chiarimenti o domande non esitate a… consultare le FAQ:
   </p>
 
 </div>

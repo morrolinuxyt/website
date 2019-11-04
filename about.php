@@ -12,24 +12,21 @@
       <h2>Chi Sono</h2>
       <p>
       Effettivamente non avevo mai pensato a quanto potesse essere imbarazzante scriversi la propria pagina di “Chi sono”.<br /><br />
-      Ebbene mi chiamo Moreno Razzoli, sono Perito informatico, appassionato di GNU/Linux e soluzioni OpenSource, di cui parlo spesso sul mio canale youtube
+      Ebbene mi chiamo Moreno Razzoli, ho studiato Computer Science (Informatica) e sono appassionato di GNU/Linux e soluzioni Open Source, di cui parlo spesso sul mio canale YouTube
       anche se non mi piace definirmi “uno youtuber“: tutto ciò che faccio è condividere reciprocamente entusiasmo e scoperte con una comunità (sempre in crescita!)
       di appassionati e professionisti del settore.<br /><br />
       Nella vita sono un System Administrator sempre alla ricerca di nuovi stimoli, ragione per la quale ho conseguito la certificazione LPI
-      (su cui ho anche realizzato un corso su Udemy) assieme ad un continuo lavoro di ricerca delle nuove tecnologie ed opportunità del settore.
+      (su cui ho anche realizzato un <a href="lpi.php"> corso su Udemy </a>) assieme ad un continuo lavoro di ricerca delle nuove tecnologie ed opportunità del settore.
     </p><br />
       <h2>Contatti</h2>
       <p>
       Restiamo in contatto!<br />
-      Sulla mia pagina Facebook condivido “cose interessanti” da all over the world.
+      Potete trovarmi sul gruppo Telegram assieme ad altri appassionati di ogni età e campo d'interesse.
       Mentre se non volete perdervi l’ultimo video e un po' di backstage, trovate il mio canale Telegram.
-      Twitter è consigliato per non perdersi le pubblicazioni automatiche :)<br /><br />
       Youtube: <a href="https://www.youtube.com/user/morrolinux/" target="blank_">MorrolinuxYouTube</a><br />
       Facebook: <a href="https://www.facebook.com/MorrolinuxOfficial/" target="blank_">MorrolinuxOfficial</a><br />
-      Twitter: <a href="https://twitter.com/morrolinux/" target="blank_">MorrolinuxTwitter</a><br />
-      Google+: <a href="https://plus.google.com/u/0/+morrolinux/" target="blank_">+Morrolinux</a><br />
       Telegram: <a href="https://telegram.me/morrolinux_feed" target="blank_">MorrolinuxFeed</a><br />
-      Gruppo Telegram: <a href="https://telegram.me/joinchat/CIYEjkC40GCRjAXDSXJJdQ" target="_blank">/dev/null/morrolinux</a><br />
+      Gruppo Telegram: <a href="https://telegram.me/joinchat/CIYEjkC40GCRjAXDSXJJdQ" target="_blank">morrolinux > /dev/null</a><br />
       </p>
     </div>
 
