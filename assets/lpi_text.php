@@ -1,7 +1,7 @@
 <?php
   $essentials = $e101 = $e102 = "";
 
-  $json_data = file_get_contents('udemy_coupons.txt');
+  $json_data = file_get_contents('udemy_coupons.json');
   $data = json_decode($json_data, true);
 
   $essentials = $data["Essentials"];
@@ -9,13 +9,13 @@
   $e102 = $data["102"];
 
   if(empty($essentials)){
-    $essentials = "https://www.udemy.com/course/impara-linux-da-zero-lpi-linux-essentials/";
+    $essentials = "https://www.udemy.com/course/impara-linux-da-zero-lpi-linux-essentials/?referralCode=9F2C500B1DC009224ABD";
   }
   if(empty($e101)){
-    $e101 = "https://www.udemy.com/course/impara-linux-dalle-basi-alla-certificazione/";
+    $e101 = "https://www.udemy.com/course/impara-linux-dalle-basi-alla-certificazione/?referralCode=51B7A99838177C89C187";
   }
   if(empty($e102)){
-    $e102 = "https://www.udemy.com/course/impara-linux-dalle-basi-alla-certificazione-lpi-exam-102/";
+    $e102 = "https://www.udemy.com/course/impara-linux-dalle-basi-alla-certificazione-lpi-exam-102/?referralCode=7018A3D9DC7C34281A3F";
   }
 ?>
 

@@ -22,7 +22,7 @@
       <p>
       Restiamo in contatto!<br />
       Potete trovarmi sul gruppo Telegram assieme ad altri appassionati di ogni età e campo d'interesse.
-      Mentre se non volete perdervi l’ultimo video e un po' di backstage, trovate il mio canale Telegram.
+      Mentre se non volete perdervi l’ultimo video e un po' di backstage, trovate il mio canale Telegram.<br>
       Youtube: <a href="https://www.youtube.com/user/morrolinux/" target="blank_">MorrolinuxYouTube</a><br />
       Facebook: <a href="https://www.facebook.com/MorrolinuxOfficial/" target="blank_">MorrolinuxOfficial</a><br />
       Telegram: <a href="https://telegram.me/morrolinux_feed" target="blank_">MorrolinuxFeed</a><br />
